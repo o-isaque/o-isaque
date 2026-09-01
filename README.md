@@ -19,22 +19,22 @@ I work across software development, product, cloud, data, and IoT, with a strong
 ## 02 / TECHNOLOGIES I'VE WORKED WITH
 
 **LANGUAGES**  
-![TypeScript](https://img.shields.io/badge/TypeScript-1B1B1B?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=1B1B1B) ![JavaScript](https://img.shields.io/badge/JavaScript-1B1B1B?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=1B1B1B) ![Python](https://img.shields.io/badge/Python-1B1B1B?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=1B1B1B) ![SQL](https://img.shields.io/badge/SQL-1B1B1B?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=1B1B1B)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=131313&labelColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=131313&labelColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=131313&labelColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=131313&labelColor=FFFFFF)
 
 **APPLICATION**  
-![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=1B1B1B) ![React](https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=1B1B1B) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1B1B?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=1B1B1B) ![Redis](https://img.shields.io/badge/Redis-1B1B1B?style=for-the-badge&logo=redis&logoColor=FFFFFF&labelColor=1B1B1B)
+![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=131313&labelColor=FFFFFF) ![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=131313&labelColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=131313&labelColor=FFFFFF) ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=131313&labelColor=FFFFFF)
 
 **CLOUD & INFRASTRUCTURE**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-1B1B1B?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=1B1B1B) ![Docker](https://img.shields.io/badge/Docker-1B1B1B?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=1B1B1B) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1B1B1B?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF&labelColor=1B1B1B) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1B1B1B?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=1B1B1B) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1B1B1B?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=1B1B1B)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-FFFFFF?style=for-the-badge&logo=googlecloud&logoColor=131313&labelColor=FFFFFF) ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=131313&labelColor=FFFFFF) ![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=131313&labelColor=FFFFFF) ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFFFFF?style=for-the-badge&logo=cloudflare&logoColor=131313&labelColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FFFFFF?style=for-the-badge&logo=githubactions&logoColor=131313&labelColor=FFFFFF)
 
 **AUTOMATION & IOT**  
-![n8n](https://img.shields.io/badge/n8n-1B1B1B?style=for-the-badge&logo=n8n&logoColor=FFFFFF&labelColor=1B1B1B) ![ThingsBoard](https://img.shields.io/badge/ThingsBoard-1B1B1B?style=for-the-badge&logo=thingsboard&logoColor=FFFFFF&labelColor=1B1B1B) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1B1B1B?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF&labelColor=1B1B1B) ![MQTT](https://img.shields.io/badge/MQTT-1B1B1B?style=for-the-badge&logo=mqtt&logoColor=FFFFFF&labelColor=1B1B1B)
+![n8n](https://img.shields.io/badge/n8n-FFFFFF?style=for-the-badge&logo=n8n&logoColor=131313&labelColor=FFFFFF) ![ThingsBoard](https://img.shields.io/badge/ThingsBoard-FFFFFF?style=for-the-badge&logo=thingsboard&logoColor=131313&labelColor=FFFFFF) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-FFFFFF?style=for-the-badge&logo=raspberrypi&logoColor=131313&labelColor=FFFFFF) ![MQTT](https://img.shields.io/badge/MQTT-FFFFFF?style=for-the-badge&logo=mqtt&logoColor=131313&labelColor=FFFFFF)
 
 **DATA & OBSERVABILITY**  
-![BigQuery](https://img.shields.io/badge/BigQuery-1B1B1B?style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF&labelColor=1B1B1B) ![Grafana](https://img.shields.io/badge/Grafana-1B1B1B?style=for-the-badge&logo=grafana&logoColor=FFFFFF&labelColor=1B1B1B) ![Power BI](https://img.shields.io/badge/Power_BI-1B1B1B?style=for-the-badge&logo=powerbi&logoColor=FFFFFF&labelColor=1B1B1B) ![Supabase](https://img.shields.io/badge/Supabase-1B1B1B?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=1B1B1B) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-1B1B1B?style=for-the-badge&logo=looker&logoColor=FFFFFF&labelColor=1B1B1B)
+![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=for-the-badge&logo=googlebigquery&logoColor=131313&labelColor=FFFFFF) ![Grafana](https://img.shields.io/badge/Grafana-FFFFFF?style=for-the-badge&logo=grafana&logoColor=131313&labelColor=FFFFFF) ![Power BI](https://img.shields.io/badge/Power_BI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=131313&labelColor=FFFFFF) ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=for-the-badge&logo=supabase&logoColor=131313&labelColor=FFFFFF) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-FFFFFF?style=for-the-badge&logo=looker&logoColor=131313&labelColor=FFFFFF)
 
 **TOOLS**  
-![Git](https://img.shields.io/badge/Git-1B1B1B?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=1B1B1B) ![GitHub](https://img.shields.io/badge/GitHub-1B1B1B?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1B1B1B) ![Postman](https://img.shields.io/badge/Postman-1B1B1B?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=1B1B1B) ![VS Code](https://img.shields.io/badge/VS_Code-1B1B1B?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=1B1B1B) ![Docusaurus](https://img.shields.io/badge/Docusaurus-1B1B1B?style=for-the-badge&logo=docusaurus&logoColor=FFFFFF&labelColor=1B1B1B)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=131313&labelColor=FFFFFF) ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=131313&labelColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=131313&labelColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=131313&labelColor=FFFFFF) ![Docusaurus](https://img.shields.io/badge/Docusaurus-FFFFFF?style=for-the-badge&logo=docusaurus&logoColor=131313&labelColor=FFFFFF)
 
 <img src="./assets/divider.svg" alt="" width="100%" height="10" />
 
@@ -57,8 +57,8 @@ TypeScript product project focused on turning a practical workflow into a usable
 
 `PRODUCT THINKING` `TYPESCRIPT` `WEB APPLICATIONS` `UX`
 
-[OPEN PROJECT ->](https://project-bank.senalab.cloud/)  
-[VIEW SOURCE ->](https://github.com/o-isaque/project-bank)
+<a href="https://project-bank.senalab.cloud/"><img src="./assets/button-open-project.svg" alt="Open Project" height="42" /></a>
+<a href="https://github.com/o-isaque/project-bank"><img src="./assets/button-view-source.svg" alt="View Source" height="42" /></a>
 
 ### PO File Translator
 
@@ -66,7 +66,7 @@ Automates `.po` file translation through LibreTranslate, turning a repetitive pr
 
 `AUTOMATION` `API INTEGRATION` `PYTHON` `FILE PROCESSING`
 
-[VIEW SOURCE ->](https://github.com/o-isaque/tradutorPython)
+<a href="https://github.com/o-isaque/tradutorPython"><img src="./assets/button-view-source.svg" alt="View Source" height="42" /></a>
 
 <img src="./assets/divider.svg" alt="" width="100%" height="10" />
 
