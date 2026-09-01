@@ -32,13 +32,13 @@ I work across product, software architecture, backend, frontend, cloud, and auto
 
 <br />
 
-<a href="https://github.com/o-isaque/CaduCine"><img src="./assets/project-caducine.svg" alt="CaduCine — automation for audiovisual production" width="100%" /></a>
+<a href="https://github.com/o-isaque/tradutorPython"><img src="./assets/project-automation.svg" alt="Translation Automation — API-driven file translation workflow" width="100%" /></a>
 
-**CaduCine** is an application for automating operational processes in audiovisual production. The engineering challenge is translating a multi-step real-world operation into dependable workflows with a coherent product surface.
+**Translation Automation** is a practical integration for translating `.po` files with LibreTranslate. It demonstrates the systems side of my work: take a repetitive task, define a reliable workflow around an API, and make the result repeatable.
 
-`AUTOMATION` `WORKFLOWS` `TYPESCRIPT` `PRODUCT DELIVERY`
+`AUTOMATION` `API INTEGRATION` `PYTHON` `WORKFLOWS`
 
-[OPEN REPOSITORY ->](https://github.com/o-isaque/CaduCine)
+[OPEN REPOSITORY ->](https://github.com/o-isaque/tradutorPython)
 
 <br />
 
