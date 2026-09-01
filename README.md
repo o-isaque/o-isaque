@@ -67,6 +67,8 @@ I work across product, software architecture, backend, frontend, cloud, and auto
 
 ## 05 / CONNECT
 
+[LINKEDIN ->](https://www.linkedin.com/in/isaque-sena/)  
+[EMAIL ->](mailto:Isaquesena975@gmail.com)  
 [GITHUB ->](https://github.com/o-isaque)
 
 `PROFILE_ID: O-ISAQUE`  
