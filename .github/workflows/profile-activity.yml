@@ -25,7 +25,7 @@ jobs:
 
       - name: Commit refreshed activity asset
         run: |
-          if git diff --quiet; then
+          if [ -z "$(git status --porcelain)" ]; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
