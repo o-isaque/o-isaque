@@ -58,7 +58,6 @@ TypeScript product project focused on turning a practical workflow into a usable
 `PRODUCT THINKING` `TYPESCRIPT` `WEB APPLICATIONS` `UX`
 
 <a href="https://project-bank.senalab.cloud/"><img src="./assets/button-open-project.svg" alt="Open Project" height="42" /></a>
-<a href="https://github.com/o-isaque/project-bank"><img src="./assets/button-view-source.svg" alt="View Source" height="42" /></a>
 
 ### PO File Translator
 
