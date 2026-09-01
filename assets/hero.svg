@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Isaque Sena, Software Engineer</title>
+  <desc id="desc">A dark editorial banner for Isaque Sena's engineering profile.</desc>
+  <rect width="1200" height="560" fill="#131313"/>
+  <g stroke="#2a2a2a" stroke-width="1">
+    <path d="M40 0V560M160 0V560M280 0V560M400 0V560M520 0V560M640 0V560M760 0V560M880 0V560M1000 0V560M1120 0V560"/>
+    <path d="M0 40H1200M0 160H1200M0 280H1200M0 400H1200M0 520H1200"/>
+  </g>
+  <g fill="#fff">
+    <rect x="40" y="40" width="8" height="8"/>
+    <rect x="1152" y="40" width="8" height="8"/>
+    <rect x="40" y="512" width="8" height="8"/>
+    <rect x="1152" y="512" width="8" height="8"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#e2e2e2">
+    <text x="72" y="84" font-size="15" letter-spacing="3">PROFILE_01 / SENALAB SYSTEMS</text>
+    <text x="72" y="198" fill="#fff" font-size="76" font-weight="700" letter-spacing="-3">ISAQUE SENA</text>
+    <text x="72" y="272" fill="#fff" font-size="51" font-weight="700" letter-spacing="-2">SOFTWARE</text>
+    <text x="72" y="328" fill="#fff" font-size="51" font-weight="700" letter-spacing="-2">ENGINEER.</text>
+    <text x="76" y="381" font-size="19" letter-spacing="2">PRODUCT-MINDED BUILDER</text>
+    <text x="804" y="412" font-size="20">BUILDING SYSTEMS</text>
+    <text x="804" y="440" font-size="20">FROM PROBLEM</text>
+    <text x="804" y="468" font-size="20">TO PRODUCTION.</text>
+    <text x="72" y="490" font-size="13" letter-spacing="2">STRUCTURE / CLARITY / ENGINEERING / DELIVERY</text>
+    <text x="1018" y="84" font-size="13" letter-spacing="2">STATUS: BUILDING</text>
+  </g>
+  <path d="M804 382H1102" stroke="#fff" stroke-width="2"/>
+  <rect x="1132" y="448" width="20" height="20" fill="#fff"/>
+</svg>
