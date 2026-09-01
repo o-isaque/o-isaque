@@ -1,0 +1,35 @@
+name: Refresh profile activity
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate monochrome contribution activity
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/activity-snake.svg?palette=github-dark&color_snake=#FFFFFF&color_dots=#1B1B1B,#1B1B1B,#2A2A2A,#353535,#474747
+
+      - name: Commit refreshed activity asset
+        run: |
+          if git diff --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-snake.svg
+          git commit -m "chore: refresh profile activity"
+          git push

@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="02 Translation Automation">
-  <rect width="1200" height="300" fill="#1b1b1b"/>
-  <path d="M0 0H1200V300H0Z" fill="none" stroke="#474747"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 410" role="img" aria-label="02 PO File Translator">
+  <rect width="600" height="410" fill="#1b1b1b"/>
+  <path d="M0 0H600V410H0Z" fill="none" stroke="#474747"/>
   <g fill="#fff" font-family="Arial, Helvetica, sans-serif">
-    <text x="48" y="64" font-size="15" letter-spacing="3">02 / SYSTEM INTEGRATION</text>
-    <text x="48" y="150" font-size="55" font-weight="700" letter-spacing="-2">TRANSLATION</text>
-    <text x="48" y="207" font-size="55" font-weight="700" letter-spacing="-2">AUTOMATION</text>
-    <text x="52" y="250" fill="#e2e2e2" font-size="18">API-DRIVEN FILE TRANSLATION WORKFLOW</text>
-    <text x="968" y="246" font-size="16" letter-spacing="2">OPEN -&gt;</text>
+    <text x="36" y="54" font-size="13" letter-spacing="2">02 / API_WORKFLOW</text>
+    <text x="36" y="138" font-size="42" font-weight="700" letter-spacing="-2">PO FILE</text>
+    <text x="36" y="184" font-size="42" font-weight="700" letter-spacing="-2">TRANSLATOR</text>
+    <text x="40" y="226" fill="#e2e2e2" font-size="14" letter-spacing="1">AUTOMATION &amp; API INTEGRATION</text>
+    <text x="40" y="278" font-size="12" letter-spacing="1">PYTHON / LIBRETRANSLATE / FILES</text>
+    <text x="40" y="354" font-size="14" letter-spacing="2">VIEW SOURCE -&gt;</text>
   </g>
-  <rect x="1120" y="48" width="16" height="16" fill="#fff"/>
-  <path d="M48 278H360" stroke="#fff" stroke-width="2"/>
+  <rect x="544" y="38" width="16" height="16" fill="#fff"/>
+  <path d="M40 318H324" stroke="#fff" stroke-width="2"/>
 </svg>
