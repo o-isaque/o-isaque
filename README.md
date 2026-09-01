@@ -81,9 +81,9 @@ Automates `.po` file translation through LibreTranslate, turning a repetitive pr
 
 ## 06 / CONNECT
 
-[LINKEDIN ->](https://www.linkedin.com/in/isaque-sena/)  
-[EMAIL ->](mailto:Isaquesena975@gmail.com)  
-[GITHUB ->](https://github.com/o-isaque)
+<a href="https://www.linkedin.com/in/isaque-sena/"><img src="./assets/button-linkedin.svg" alt="LinkedIn" height="42" /></a>
+<a href="mailto:Isaquesena975@gmail.com"><img src="./assets/button-email.svg" alt="Email" height="42" /></a>
+<a href="https://github.com/o-isaque"><img src="./assets/button-github.svg" alt="GitHub" height="42" /></a>
 
 `PROFILE_ID: O-ISAQUE`  
 `ROLE: SOFTWARE_ENGINEER`  
